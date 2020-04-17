@@ -1,2 +1,2 @@
 # pokemon
-java - eclipse
+eclipse
